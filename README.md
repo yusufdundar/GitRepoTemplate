@@ -1,6 +1,6 @@
 
-# C++, Cmake, Travis ve GogleTest içeren proje şablonu
-Cmake, Travis gibi toolları kullanarak google test (gTest) içeren basit bir C++ projesi oluşturma amacıyla açılan template repodur.
+# C++, Cmake, Travis ve GoogleTest içeren proje şablonu
+Cmake, Travis gibi toolları kullanarak Google Test (gTest) içeren basit bir C++ projesi oluşturma amacıyla açılan template repodur.
 Projesinde bu toolları kullanmak isteyenler, konfigurasyon dosyalarının içeriğini ve proje yapısını örnek alabilirler.
 
  [![Build Status](https://travis-ci.com/yusufdundar/GitRepoTemplate.svg?branch=master)](https://travis-ci.com/yusufdundar/GitRepoTemplate) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
